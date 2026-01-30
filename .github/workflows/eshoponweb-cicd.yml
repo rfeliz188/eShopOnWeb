@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 92826785-57c6-4761-a139-7bc8dedb3b1d
-  WEBAPP-NAME: eshoponwebdo-webTest-Test
+  WEBAPP-NAME: eshoponwebdo-web
 
 jobs:
   #Build, test and publish .net web project in repository
